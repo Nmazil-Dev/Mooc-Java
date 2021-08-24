@@ -8,5 +8,6 @@ public class third_element{
         list.add("Alex");
         list.add("Mary");
 
+        System.out.println(list.get(2));
     }
 }
